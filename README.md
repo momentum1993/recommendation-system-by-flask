@@ -43,3 +43,6 @@ Output: 나이, 직종, 거리 순으로 정렬 (서울시어르신 취업지원
 구청 및 시청의 노인대상 프로그램 및 여가프로그램 정보, 서울시 독거노인 현황, 어르신 교육시설
 현황, 서울시 노인여가 복지시설, 서울시 노인주거 복지시설, 서울시 노인 사회활동 참가 통계, 네이버
 지도 API
+
+### 현재 AWS를 통해서 페이지를 열어두었습니다.
+홈페이지 링크: http://leisureforelders-env.nic4znvdwk.ap-northeast-2.elasticbeanstalk.com/
