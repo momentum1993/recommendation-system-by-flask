@@ -45,5 +45,5 @@ Output: 나이, 직종, 거리 순으로 정렬 (서울시어르신 취업지원
 지도 API  
   
 ### <시연 동영상>  
-이미지를 클릭해서 시연 동영상을 시청 할 수 있습니다.
+이미지를 클릭해서 시연 동영상을 시청 할 수 있습니다.  
 [![Alt text for your video](https://img.youtube.com/vi/851iEWvnOTU/0.jpg)](https://youtu.be/851iEWvnOTU)
